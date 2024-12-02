@@ -10,7 +10,8 @@ Task 1: Making Changes
 """
 def greet(name):
     # TODO: Replace 'pass' with a return statement that says hello
-    pass
+    def greet(name):
+     return f"Hello, {name}!"
 
 """
 Task 2: Committing Changes
